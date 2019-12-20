@@ -34,7 +34,7 @@ After `Install` you now can run the script
 $ clean --help
 ```
 
-### How it works
+## How it works
 
 This script installs it properly from the Github repository.
 
