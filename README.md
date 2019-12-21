@@ -1,6 +1,6 @@
 # 42 Cleaner
 
-A cleanup script to keep your 42 iMac clean and patched.
+A cleanup script to keep your `42 SESSION ━ iMAC` clean and patched.
 
 ## What It Does
 
